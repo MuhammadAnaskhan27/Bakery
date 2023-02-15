@@ -1,0 +1,13 @@
+.categories{
+display: flex;
+gap: 10px;
+padding-left: 20px;
+padding-bottom: 50px;
+}
+.btn{
+    position: relative;
+    left: 120px;
+}
+.our-categories{
+    padding-top: 50px;
+}

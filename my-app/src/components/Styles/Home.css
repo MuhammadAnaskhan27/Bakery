@@ -1,0 +1,21 @@
+.img {
+    padding-bottom: 50px;
+    display: block;
+    margin: auto;
+}
+
+.bakeimg {
+    position: absolute;
+    display: block;
+}
+
+.img-div {
+    display: flex;
+    padding-top: 170px;
+    align-items: center;
+    justify-content: center;
+}
+
+.home {
+    padding-top: 20px;
+}

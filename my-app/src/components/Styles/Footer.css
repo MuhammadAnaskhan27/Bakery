@@ -1,0 +1,20 @@
+.footer {
+    padding: 2rem;
+    background: #31473B;
+    color: white;
+    padding: 25px;
+
+}
+
+.bottom {
+    text-align: start;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+
+.bottom div {
+    display: flex;
+    flex-direction: column;
+}
